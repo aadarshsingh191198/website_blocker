@@ -31,6 +31,3 @@ pyinstaller --onefile website_blocker.py
 ```
 
 5. Run the `website_blocker.exe` file in the `dist` folder
-
-For any help - 
-`https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263`
